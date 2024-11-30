@@ -1,59 +1,67 @@
 <img src="https://komarev.com/ghpvc/?username=whdhdyt21&label=Profile%20views&color=0e75b6&style=flat" alt="whdhdyt21" />
-<h1 align="center">Hi there 👋, I'm Wahid Hidayat</h1>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Wahid Hidayat
+=====================================================================================================================================
+
+I’m a versatile developer passionate about creating innovative, user-centric solutions. My expertise spans **mobile development** 📱, **full-stack development** 🌐, and exploring emerging technologies like **AI** 💡. I enjoy solving real-world challenges, continuous learning, and collaborating to build impactful digital products.
+
+- 🌍 **Location**: Indonesia  
+- ✉️ **Email**: [wahidh776@gmail.com](mailto:wahidh776@gmail.com)  
+- 🧠 **Learning Focus**: Mobile Application Development  
 
 ---
 
-## 🚀 About Me
+## 🛠️ Skills
 
-I’m a versatile developer passionate about creating innovative, user-centric solutions. I can easily adapt to various roles, whether it's mobile development 📱, full-stack development 🌐, or exploring AI and emerging technologies 💡, based on what the project demands. I focus on building impactful digital products that address real-world challenges. I thrive on continuous learning, collaboration, and diving into new tech to deliver meaningful solutions.  
-
-- 🌱 **Currently Learning:** Mobile Application Development  
-- 💻 **Background:** Informatics Engineering Student at Semarang State University  
-- 💬 **Tech Enthusiast:** Ask me anything about tech, and I’m happy to help!  
-- 🤝 **Team Collaboration:** I thrive in team environments, sharing insights and learning from others to achieve outstanding results.
-
----
-
-## 🛠️ Tech Stack
-
-Here are the tools and technologies I work with:
-
-<p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" alt="VS Code">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="40" alt="Python">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" alt="JavaScript">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="40" alt="Figma">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="40" alt="Dart">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" alt="Flutter">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" alt="MySQL">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" alt="Java">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" alt="C++">
-  <img src="https://user-images.githubusercontent.com/4821/255017351-9f5b83e7-cb9a-4f59-be6f-cb407c2247e9.png" width="40" alt="Android">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="40" alt="Unity">
-</p>  
+<p align="left">
+  <!-- Programming Languages -->
+  <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://user-images.githubusercontent.com/4821/255017351-9f5b83e7-cb9a-4f59-be6f-cb407c2247e9.png" width="36" height="36" alt="C#" /></a>
+  
+  <!-- Tools & Platforms -->
+  <a href="https://unity.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="36" height="36" alt="Unity" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.oracle.com/uk/index.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Socials  
+
+  <a href="https://www.linkedin.com/in/wahid-hidayat/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="http://www.instagram.com/whdhdyt_21/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="http://www.medium.com/@wahidh776" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whdhdyt21&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="http://www.github.com/whdhdyt21">
+    <img src="https://github-readme-stats.vercel.app/api?username=whdhdyt21&show_icons=true&count_private=true&hide_border=true&bg_color=27272a&title_color=3382ed&text_color=ffffff" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whdhdyt21&theme=default" alt="GitHub Streak" />
-</p>  
+  <a href="http://www.github.com/whdhdyt21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=whdhdyt21&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
----
-
-## 📫 How to Reach Me
-
-I’m always open to new opportunities, collaborations, and discussions. Feel free to explore my projects or reach out through any of the following platforms:
-
-- 📧 **Email:** [wahidh776@gmail.com](mailto:wahidh776@gmail.com)  
-- 🔗 **LinkedIn:** [Wahid Hidayat](https://www.linkedin.com/in/wahid-hidayat/)  
-- 🐦 **Instagram:** [@whdhdyt_21](https://www.instagram.com/whdhdyt_21/)  
-
----
-
-### Let’s create something amazing together! 🚀
+<p align="center">
+  <a href="https://github.com/whdhdyt21">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdhdyt21&langs_count=10&layout=compact&hide_border=true&bg_color=27272a&title_color=3382ed&text_color=ffffff" alt="Top Languages" />
+  </a>
+</p>
