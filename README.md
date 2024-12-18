@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Nwbm05MzBkOXk3N2Jtam4xOWU2b3F0aGxrdGJ4MnRxbW43NXg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" alt="Header Image" width="30%" />
-</p>
-
 <h1 align="center">
   Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"/> 
   I'm <b>Wahid Hidayat</b>
@@ -15,6 +11,10 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&background=6DFF2B00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Page!;Mobile+Developer+(Flutter+%26+Kotlin);Freelancer+and+Problem+Solver;Passionate+about+UI/UX+Design;Exploring+AI+and+Machine+Learning;Experienced+Project+Manager" alt="Typing SVG" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Nwbm05MzBkOXk3N2Jtam4xOWU2b3F0aGxrdGJ4MnRxbW43NXg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" alt="Header Image" width="30%" />
 </p>
 
 ---
