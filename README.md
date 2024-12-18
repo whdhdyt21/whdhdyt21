@@ -1,6 +1,5 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Nwbm05MzBkOXk3N2Jtam4xOWU2b3F0aGxrdGJ4MnRxbW43NXg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" alt="Header Image" width="80%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Nwbm05MzBkOXk3N2Jtam4xOWU2b3F0aGxrdGJ4MnRxbW43NXg4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" alt="Header Image" width="30%" />
 </p>
 
 <h1 align="center">
@@ -9,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <i>A Mobile Developer | Full Stack Developer | Project Manager | Freelance Python Developer | Machine Learning Enthusiast</i>
+  <i>Mobile Developer | Full Stack Developer | Project Manager | Freelance Python Developer | Machine Learning Enthusiast</i>
 </p>
 
 <p align="center">
@@ -45,7 +44,6 @@ I’m a **versatile and adaptive professional** with expertise in **mobile devel
   </a>
 </p>
 
-<!-- Profile View Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whdhdyt21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
@@ -80,21 +78,10 @@ I’m a **versatile and adaptive professional** with expertise in **mobile devel
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdhdyt21&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whdhdyt21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whdhdyt21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">Activity Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=whdhdyt21&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Footer" width="80%" />
 </p>
